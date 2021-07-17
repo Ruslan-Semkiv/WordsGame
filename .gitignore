@@ -1,0 +1,9 @@
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\Dell Latitude E5440\Desktop\QA_Recs-master\WordsGame\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.idea
+/target
